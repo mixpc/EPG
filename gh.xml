@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="la1.es">
     <display-name lang="es">SP: LA 1 HD</display-name>
@@ -28,12 +28,12 @@
     <display-name lang="es">#0</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Movistar Series">
-    <display-name lang="es">Movistar Series</display-name>
+  <channel id="movistarseries.es">
+    <display-name lang="es">SP: M. SERIES HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Movistar Series Xtra">
-    <display-name lang="es">Movistar Series Xtra</display-name>
+  <channel id="movistarseriesxtra.es">
+    <display-name lang="es">SP: M. SERIES XTRA HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="fox.es">
@@ -56,8 +56,8 @@
     <display-name lang="es">SP: CALLE 13 HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="COSMO">
-    <display-name lang="es">COSMO</display-name>
+  <channel id="cosmo.es">
+    <display-name lang="es">SP: COSMO HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="amc.es">
@@ -96,8 +96,8 @@
     <display-name lang="es">Atreseries</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Energy">
-    <display-name lang="es">Energy</display-name>
+  <channel id="energy.es">
+    <display-name lang="es">SP: ENERGY</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="movistarestrenos.es">
@@ -192,24 +192,24 @@
     <display-name lang="es">SP: BAR TV</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Movistar Deportes 1">
-    <display-name lang="es">Movistar Deportes 1</display-name>
+  <channel id="movistardeportes.es">
+    <display-name lang="es">SP: M. DEPORTE 1 HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Movistar Deportes 2">
-    <display-name lang="es">Movistar Deportes 2</display-name>
+  <channel id="movistardeportes2.es">
+    <display-name lang="es">SP: M. DEP2 HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Movistar Fórmula 1">
-    <display-name lang="es">Movistar Fórmula 1</display-name>
+  <channel id="movistarformula1.es">
+    <display-name lang="es">SP: FORMULA 1 HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="movistarmotogp.es">
     <display-name lang="es">SP: MOTOGP HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Movistar Golf">
-    <display-name lang="es">Movistar Golf</display-name>
+  <channel id="movistargolf.es">
+    <display-name lang="es">SP: M. GOLF HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="eurosport1.es">
@@ -220,8 +220,8 @@
     <display-name lang="es">SP: EUROSPORT 2</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="GOL">
-    <display-name lang="es">GOL</display-name>
+  <channel id="gol.es">
+    <display-name lang="es">SP: GOL</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="GOL HD">
@@ -236,8 +236,8 @@
     <display-name lang="es">Canal Fútbol Replay</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Caza y Pesca">
-    <display-name lang="es">Caza y Pesca</display-name>
+  <channel id="cazapesca.es">
+    <display-name lang="es">SP: CAZA Y PESCA HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="iberaliatv.es">
@@ -292,12 +292,12 @@
     <display-name lang="es">CCTV Español</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Canal Cocina">
-    <display-name lang="es">Canal Cocina</display-name>
+  <channel id="canalcocina.es">
+    <display-name lang="es">SP: CANAL COCINA</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Canal Decasa">
-    <display-name lang="es">Canal Decasa</display-name>
+  <channel id="canaldecasa.es">
+    <display-name lang="es">SP: CANAL DECASA</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="DKISS">
@@ -356,8 +356,8 @@
     <display-name lang="es">SP: DISNEY HD</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Boing">
-    <display-name lang="es">Boing</display-name>
+  <channel id="boing.es">
+    <display-name lang="es">SP: BOING</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="clantve.es">
@@ -520,8 +520,8 @@
     <display-name lang="es">NHK World TV</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
-  <channel id="Canal Sur Andalucía">
-    <display-name lang="es">Canal Sur Andalucía</display-name>
+  <channel id="canalandalucia.es">
+    <display-name lang="es">SP: CANAL SUR</display-name>
     <url>http://www.movistarplus.es</url>
   </channel>
   <channel id="TV Galicia">
@@ -1124,179 +1124,179 @@
     <title lang="es">Late Motiv: Episodio 137</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530053900 +0000" stop="20190530062100 +0000" channel="Movistar Series">
+  <programme start="20190530053900 +0000" stop="20190530062100 +0000" channel="movistarseries.es">
     <title lang="es">Madam Secretary (T3): Ep.1 Cambio radical</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530062100 +0000" stop="20190530070500 +0000" channel="Movistar Series">
+  <programme start="20190530062100 +0000" stop="20190530070500 +0000" channel="movistarseries.es">
     <title lang="es">Madam Secretary (T3): Ep.2 El eje</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530070500 +0000" stop="20190530075000 +0000" channel="Movistar Series">
+  <programme start="20190530070500 +0000" stop="20190530075000 +0000" channel="movistarseries.es">
     <title lang="es">Madam Secretary (T3): Ep.3 Mar del Sur de China</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530075000 +0000" stop="20190530090500 +0000" channel="Movistar Series">
+  <programme start="20190530075000 +0000" stop="20190530090500 +0000" channel="movistarseries.es">
     <title lang="es">Downton Abbey (T6): Episodio 8</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530090500 +0000" stop="20190530104500 +0000" channel="Movistar Series">
+  <programme start="20190530090500 +0000" stop="20190530104500 +0000" channel="movistarseries.es">
     <title lang="es">Downton Abbey (T6): Episodio 9</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530104500 +0000" stop="20190530113000 +0000" channel="Movistar Series">
+  <programme start="20190530104500 +0000" stop="20190530113000 +0000" channel="movistarseries.es">
     <title lang="es">Whiskey Cavalier (T1): Ep.12 Tal para cual</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530113000 +0000" stop="20190530121500 +0000" channel="Movistar Series">
+  <programme start="20190530113000 +0000" stop="20190530121500 +0000" channel="movistarseries.es">
     <title lang="es">Whiskey Cavalier (T1): Ep.13 Jaque mate al checo</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530121500 +0000" stop="20190530130700 +0000" channel="Movistar Series">
+  <programme start="20190530121500 +0000" stop="20190530130700 +0000" channel="movistarseries.es">
     <title lang="es">House of Cards (T6): Episodio 1</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530130700 +0000" stop="20190530140500 +0000" channel="Movistar Series">
+  <programme start="20190530130700 +0000" stop="20190530140500 +0000" channel="movistarseries.es">
     <title lang="es">House of Cards (T6): Episodio 2</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530140500 +0000" stop="20190530144000 +0000" channel="Movistar Series">
+  <programme start="20190530140500 +0000" stop="20190530144000 +0000" channel="movistarseries.es">
     <title lang="es">Animado presidente (T2): Episodio 1</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530144000 +0000" stop="20190530153000 +0000" channel="Movistar Series">
+  <programme start="20190530144000 +0000" stop="20190530153000 +0000" channel="movistarseries.es">
     <title lang="es">Jane the Virgin (VOS) (T5): Episodio 10 (VOS)</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530153000 +0000" stop="20190530155500 +0000" channel="Movistar Series">
+  <programme start="20190530153000 +0000" stop="20190530155500 +0000" channel="movistarseries.es">
     <title lang="es">El joven Sheldon (T2): Episodio 21</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530155500 +0000" stop="20190530162000 +0000" channel="Movistar Series">
+  <programme start="20190530155500 +0000" stop="20190530162000 +0000" channel="movistarseries.es">
     <title lang="es">El joven Sheldon (T2): Episodio 22</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530162000 +0000" stop="20190530170500 +0000" channel="Movistar Series">
+  <programme start="20190530162000 +0000" stop="20190530170500 +0000" channel="movistarseries.es">
     <title lang="es">Madam Secretary (T3): Ep.4 La nota de disconformidad</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530170500 +0000" stop="20190530175000 +0000" channel="Movistar Series">
+  <programme start="20190530170500 +0000" stop="20190530175000 +0000" channel="movistarseries.es">
     <title lang="es">Madam Secretary (T3): Ep.5 La revolución francesa</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530175000 +0000" stop="20190530183500 +0000" channel="Movistar Series">
+  <programme start="20190530175000 +0000" stop="20190530183500 +0000" channel="movistarseries.es">
     <title lang="es">Madam Secretary (T3): Ep.6 La declaración</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530183500 +0000" stop="20190530192500 +0000" channel="Movistar Series">
+  <programme start="20190530183500 +0000" stop="20190530192500 +0000" channel="movistarseries.es">
     <title lang="es">Madam Secretary (T3): Ep.7 Desplazamiento</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530192500 +0000" stop="20190530201000 +0000" channel="Movistar Series">
+  <programme start="20190530192500 +0000" stop="20190530201000 +0000" channel="movistarseries.es">
     <title lang="es">Juego de Tronos T8: El juego al descubierto (T8): Ep.3 La Larga Noche</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530201000 +0000" stop="20190530212400 +0000" channel="Movistar Series">
+  <programme start="20190530201000 +0000" stop="20190530212400 +0000" channel="movistarseries.es">
     <title lang="es">Juego de tronos (T8): Ep.4 Los últimos Stark</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530212400 +0000" stop="20190530214000 +0000" channel="Movistar Series">
+  <programme start="20190530212400 +0000" stop="20190530214000 +0000" channel="movistarseries.es">
     <title lang="es">Juego de tronos T8: Dentro del episodio (T8): Dentro del episodio 4</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530214000 +0000" stop="20190530221000 +0000" channel="Movistar Series">
+  <programme start="20190530214000 +0000" stop="20190530221000 +0000" channel="movistarseries.es">
     <title lang="es">A.P. Bio (T2): Ep.9 Doctor Cachis</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530221000 +0000" stop="20190530225600 +0000" channel="Movistar Series">
+  <programme start="20190530221000 +0000" stop="20190530225600 +0000" channel="movistarseries.es">
     <title lang="es">Jane the Virgin (T5): Episodio 1</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530225600 +0000" stop="20190530234100 +0000" channel="Movistar Series">
+  <programme start="20190530225600 +0000" stop="20190530234100 +0000" channel="movistarseries.es">
     <title lang="es">Jane the Virgin (T5): Episodio 2</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530234100 +0000" stop="20190531003000 +0000" channel="Movistar Series">
+  <programme start="20190530234100 +0000" stop="20190531003000 +0000" channel="movistarseries.es">
     <title lang="es">The Fix (T1): Ep.1 Piloto</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530054100 +0000" stop="20190530063500 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530054100 +0000" stop="20190530063500 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Enemigo público (T2): Episodio 7</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530063500 +0000" stop="20190530073500 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530063500 +0000" stop="20190530073500 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Enemigo público (T2): Episodio 8</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530073500 +0000" stop="20190530083500 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530073500 +0000" stop="20190530083500 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Enemigo público (T2): Episodio 9</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530083500 +0000" stop="20190530092900 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530083500 +0000" stop="20190530092900 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 1</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530092900 +0000" stop="20190530102500 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530092900 +0000" stop="20190530102500 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 2</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530102500 +0000" stop="20190530111800 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530102500 +0000" stop="20190530111800 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 3</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530111800 +0000" stop="20190530121400 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530111800 +0000" stop="20190530121400 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 4</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530121400 +0000" stop="20190530130700 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530121400 +0000" stop="20190530130700 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 5</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530130700 +0000" stop="20190530140300 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530130700 +0000" stop="20190530140300 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 6</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530140300 +0000" stop="20190530145500 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530140300 +0000" stop="20190530145500 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 7</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530145500 +0000" stop="20190530155400 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530145500 +0000" stop="20190530155400 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 8</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530155400 +0000" stop="20190530164600 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530155400 +0000" stop="20190530164600 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 9</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530164600 +0000" stop="20190530174500 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530164600 +0000" stop="20190530174500 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Atrapados (T1): Episodio 10</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530174500 +0000" stop="20190530183900 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530174500 +0000" stop="20190530183900 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Ray Donovan (T3): Ep.9 Octopus</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530183900 +0000" stop="20190530193900 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530183900 +0000" stop="20190530193900 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Ray Donovan (T3): Ep.10 Una noche en Yerevan</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530193900 +0000" stop="20190530203000 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530193900 +0000" stop="20190530203000 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Ray Donovan (T3): Ep.11 El atizador</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530203000 +0000" stop="20190530213000 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530203000 +0000" stop="20190530213000 +0000" channel="movistarseriesxtra.es">
     <title lang="es">La Script en Movistar+: Episodio 33</title>
     <category lang="es">Cine</category>
   </programme>
-  <programme start="20190530213000 +0000" stop="20190530223000 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530213000 +0000" stop="20190530223000 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Enemigo público (T2): Episodio 8</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530223000 +0000" stop="20190530233000 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530223000 +0000" stop="20190530233000 +0000" channel="movistarseriesxtra.es">
     <title lang="es">Enemigo público (T2): Episodio 9</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530233000 +0000" stop="20190531003500 +0000" channel="Movistar Series Xtra">
+  <programme start="20190530233000 +0000" stop="20190531003500 +0000" channel="movistarseriesxtra.es">
     <title lang="es">The Missing: Baptiste (T3): Episodio 5</title>
     <category lang="es">Series</category>
   </programme>
@@ -1752,83 +1752,83 @@
     <title lang="es">Salvajes</title>
     <category lang="es">Cine</category>
   </programme>
-  <programme start="20190530060000 +0000" stop="20190530062700 +0000" channel="COSMO">
+  <programme start="20190530060000 +0000" stop="20190530062700 +0000" channel="cosmo.es">
     <title lang="es">It moms: madre hay más que una: Episodio 10</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530062700 +0000" stop="20190530065900 +0000" channel="COSMO">
+  <programme start="20190530062700 +0000" stop="20190530065900 +0000" channel="cosmo.es">
     <title lang="es">París, etc. (T1): Episodio 2</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530065900 +0000" stop="20190530074000 +0000" channel="COSMO">
+  <programme start="20190530065900 +0000" stop="20190530074000 +0000" channel="cosmo.es">
     <title lang="es">The F Word: Episodio 11</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530074000 +0000" stop="20190530082100 +0000" channel="COSMO">
+  <programme start="20190530074000 +0000" stop="20190530082100 +0000" channel="cosmo.es">
     <title lang="es">The F Word: Episodio 1</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530082100 +0000" stop="20190530090200 +0000" channel="COSMO">
+  <programme start="20190530082100 +0000" stop="20190530090200 +0000" channel="cosmo.es">
     <title lang="es">The F Word: Episodio 2</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530090200 +0000" stop="20190530094500 +0000" channel="COSMO">
+  <programme start="20190530090200 +0000" stop="20190530094500 +0000" channel="cosmo.es">
     <title lang="es">Frankie Drake Mysteries (T1): Ep.11 Espía doble, doble espía</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530094500 +0000" stop="20190530111500 +0000" channel="COSMO">
+  <programme start="20190530094500 +0000" stop="20190530111500 +0000" channel="cosmo.es">
     <title lang="es">Un lugar donde quedarse</title>
     <category lang="es">Cine</category>
   </programme>
-  <programme start="20190530111500 +0000" stop="20190530114000 +0000" channel="COSMO">
+  <programme start="20190530111500 +0000" stop="20190530114000 +0000" channel="cosmo.es">
     <title lang="es">Renovando la casa: Episodio 4</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530114000 +0000" stop="20190530120500 +0000" channel="COSMO">
+  <programme start="20190530114000 +0000" stop="20190530120500 +0000" channel="cosmo.es">
     <title lang="es">Renovando la casa: Episodio 3</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530120500 +0000" stop="20190530130000 +0000" channel="COSMO">
+  <programme start="20190530120500 +0000" stop="20190530130000 +0000" channel="cosmo.es">
     <title lang="es">Hell's Kitchen (USA): Episodio 15</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530130000 +0000" stop="20190530135400 +0000" channel="COSMO">
+  <programme start="20190530130000 +0000" stop="20190530135400 +0000" channel="cosmo.es">
     <title lang="es">Hell's Kitchen (USA): Episodio 16</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530135400 +0000" stop="20190530145000 +0000" channel="COSMO">
+  <programme start="20190530135400 +0000" stop="20190530145000 +0000" channel="cosmo.es">
     <title lang="es">Guerra de postres: Episodio 3</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530145000 +0000" stop="20190530154500 +0000" channel="COSMO">
+  <programme start="20190530145000 +0000" stop="20190530154500 +0000" channel="cosmo.es">
     <title lang="es">Iron chef: Episodio 1</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530154500 +0000" stop="20190530175000 +0000" channel="COSMO">
+  <programme start="20190530154500 +0000" stop="20190530175000 +0000" channel="cosmo.es">
     <title lang="es">La teoría del todo</title>
     <category lang="es">Cine</category>
   </programme>
-  <programme start="20190530175000 +0000" stop="20190530182200 +0000" channel="COSMO">
+  <programme start="20190530175000 +0000" stop="20190530182200 +0000" channel="cosmo.es">
     <title lang="es">Renovando la casa: Episodio 4</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530182200 +0000" stop="20190530191700 +0000" channel="COSMO">
+  <programme start="20190530182200 +0000" stop="20190530191700 +0000" channel="cosmo.es">
     <title lang="es">Hell's Kitchen (USA): Episodio 15</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530191700 +0000" stop="20190530201200 +0000" channel="COSMO">
+  <programme start="20190530191700 +0000" stop="20190530201200 +0000" channel="cosmo.es">
     <title lang="es">Hell's Kitchen (USA): Episodio 16</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530201200 +0000" stop="20190530210300 +0000" channel="COSMO">
+  <programme start="20190530201200 +0000" stop="20190530210300 +0000" channel="cosmo.es">
     <title lang="es">Guerra de postres: Episodio 3</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530210300 +0000" stop="20190530220000 +0000" channel="COSMO">
+  <programme start="20190530210300 +0000" stop="20190530220000 +0000" channel="cosmo.es">
     <title lang="es">Iron chef: Episodio 2</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530220000 +0000" stop="20190531000100 +0000" channel="COSMO">
+  <programme start="20190530220000 +0000" stop="20190531000100 +0000" channel="cosmo.es">
     <title lang="es">Infiel</title>
     <category lang="es">Cine</category>
   </programme>
@@ -2484,95 +2484,95 @@
     <title lang="es">Navy: Investigación criminal (T9): Ep.2 Inquieta</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530053500 +0000" stop="20190530065500 +0000" channel="Energy">
+  <programme start="20190530053500 +0000" stop="20190530065500 +0000" channel="energy.es">
     <title lang="es">La tienda en casa</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530065500 +0000" stop="20190530071500 +0000" channel="Energy">
+  <programme start="20190530065500 +0000" stop="20190530071500 +0000" channel="energy.es">
     <title lang="es">El zapping de Surferos: Episodio 85</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530071500 +0000" stop="20190530075000 +0000" channel="Energy">
+  <programme start="20190530071500 +0000" stop="20190530075000 +0000" channel="energy.es">
     <title lang="es">El zapping de Surferos: Episodio 85</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530075000 +0000" stop="20190530084500 +0000" channel="Energy">
+  <programme start="20190530075000 +0000" stop="20190530084500 +0000" channel="energy.es">
     <title lang="es">Caso abierto (T5): Ep.14 Andy en do menor</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530084500 +0000" stop="20190530093500 +0000" channel="Energy">
+  <programme start="20190530084500 +0000" stop="20190530093500 +0000" channel="energy.es">
     <title lang="es">Caso abierto (T5): Ep.15 La carretera</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530093500 +0000" stop="20190530101500 +0000" channel="Energy">
+  <programme start="20190530093500 +0000" stop="20190530101500 +0000" channel="energy.es">
     <title lang="es">C.S.I. NY (T3): Ep.5 El embrujo de Edipo</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530101500 +0000" stop="20190530110500 +0000" channel="Energy">
+  <programme start="20190530101500 +0000" stop="20190530110500 +0000" channel="energy.es">
     <title lang="es">C.S.I. NY (T3): Ep.6 Un caso evidente</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530110500 +0000" stop="20190530120000 +0000" channel="Energy">
+  <programme start="20190530110500 +0000" stop="20190530120000 +0000" channel="energy.es">
     <title lang="es">C.S.I. NY (T3): Ep.7 Asesinato en el tren azul</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530120000 +0000" stop="20190530124500 +0000" channel="Energy">
+  <programme start="20190530120000 +0000" stop="20190530124500 +0000" channel="energy.es">
     <title lang="es">C.S.I. NY (T3): Ep.8 Consecuencias</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530124500 +0000" stop="20190530134500 +0000" channel="Energy">
+  <programme start="20190530124500 +0000" stop="20190530134500 +0000" channel="energy.es">
     <title lang="es">C.S.I. (T6): Ep.2 Servicio de habitaciones</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530134500 +0000" stop="20190530143000 +0000" channel="Energy">
+  <programme start="20190530134500 +0000" stop="20190530143000 +0000" channel="energy.es">
     <title lang="es">C.S.I. (T6): Ep.3 Muérdeme</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530143000 +0000" stop="20190530151000 +0000" channel="Energy">
+  <programme start="20190530143000 +0000" stop="20190530151000 +0000" channel="energy.es">
     <title lang="es">C.S.I. (T6): Ep.4 Estrellas fugaces</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530151000 +0000" stop="20190530160500 +0000" channel="Energy">
+  <programme start="20190530151000 +0000" stop="20190530160500 +0000" channel="energy.es">
     <title lang="es">C.S.I. (T6): Ep.5 Migas de chicle</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530160500 +0000" stop="20190530165500 +0000" channel="Energy">
+  <programme start="20190530160500 +0000" stop="20190530165500 +0000" channel="energy.es">
     <title lang="es">C.S.I. (T6): Ep.6 Secretos y moscas</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530165500 +0000" stop="20190530173500 +0000" channel="Energy">
+  <programme start="20190530165500 +0000" stop="20190530173500 +0000" channel="energy.es">
     <title lang="es">Hawai 5.0 (T1): Ep.18 Loa Aloha (Un largo adiós)</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530173500 +0000" stop="20190530183000 +0000" channel="Energy">
+  <programme start="20190530173500 +0000" stop="20190530183000 +0000" channel="energy.es">
     <title lang="es">Hawai 5.0 (T1): Ep.19 Na Me'e Laua Na Paio (Héroes y villanos)</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530183000 +0000" stop="20190530192500 +0000" channel="Energy">
+  <programme start="20190530183000 +0000" stop="20190530192500 +0000" channel="energy.es">
     <title lang="es">Blue Bloods (Familia de policías) (T8): Ep.13 Borrando la historia</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530192500 +0000" stop="20190530201000 +0000" channel="Energy">
+  <programme start="20190530192500 +0000" stop="20190530201000 +0000" channel="energy.es">
     <title lang="es">Blue Bloods (Familia de policías) (T8): Ep.14 La escuela de la vida</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530201000 +0000" stop="20190530211500 +0000" channel="Energy">
+  <programme start="20190530201000 +0000" stop="20190530211500 +0000" channel="energy.es">
     <title lang="es">Grimm (T6): Ep.8 La rebelión del hijo</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530211500 +0000" stop="20190530220000 +0000" channel="Energy">
+  <programme start="20190530211500 +0000" stop="20190530220000 +0000" channel="energy.es">
     <title lang="es">Grimm (T6): Ep.9 Árboles monstruosos</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530220000 +0000" stop="20190530224500 +0000" channel="Energy">
+  <programme start="20190530220000 +0000" stop="20190530224500 +0000" channel="energy.es">
     <title lang="es">Grimm (T6): Ep.10 Magia con sangre</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530224500 +0000" stop="20190530233500 +0000" channel="Energy">
+  <programme start="20190530224500 +0000" stop="20190530233500 +0000" channel="energy.es">
     <title lang="es">Grimm (T6): Ep.11 Donde existían los salvajes</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530233500 +0000" stop="20190531003000 +0000" channel="Energy">
+  <programme start="20190530233500 +0000" stop="20190531003000 +0000" channel="energy.es">
     <title lang="es">Grimm (T6): Ep.12 Zerstörer Invencible</title>
     <category lang="es">Series</category>
   </programme>
@@ -3552,159 +3552,159 @@
     <title lang="es">Hora B</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530043500 +0000" stop="20190530061500 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530043500 +0000" stop="20190530061500 +0000" channel="movistardeportes.es">
     <title lang="es">NBA Classic Game: New York Knicks - San Antonio Spurs (5º partido finales 1998-1999)</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530061500 +0000" stop="20190530080000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530061500 +0000" stop="20190530080000 +0000" channel="movistardeportes.es">
     <title lang="es">Super Rugby (T2019): Brumbies - Bulls</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530080000 +0000" stop="20190530083000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530080000 +0000" stop="20190530083000 +0000" channel="movistardeportes.es">
     <title lang="es">Tactic Sport (T2019): Camp. España Flysky</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530083000 +0000" stop="20190530090000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530083000 +0000" stop="20190530090000 +0000" channel="movistardeportes.es">
     <title lang="es">Más Deporte (T18/19): Episodio 36</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530090000 +0000" stop="20190530100000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530090000 +0000" stop="20190530100000 +0000" channel="movistardeportes.es">
     <title lang="es">Monster Energy Nascar Cup Series (T2019): Coca-Cola 600. Charlotte</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530100000 +0000" stop="20190530103000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530100000 +0000" stop="20190530103000 +0000" channel="movistardeportes.es">
     <title lang="es">Track and Field Weekly (T2019): Episodio 7</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530103000 +0000" stop="20190530121500 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530103000 +0000" stop="20190530121500 +0000" channel="movistardeportes.es">
     <title lang="es">Super Rugby (T2019): Sharks - Lions</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530121500 +0000" stop="20190530124500 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530121500 +0000" stop="20190530124500 +0000" channel="movistardeportes.es">
     <title lang="es">ATP al descubierto (T2019): Episodio 22</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530124500 +0000" stop="20190530131500 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530124500 +0000" stop="20190530131500 +0000" channel="movistardeportes.es">
     <title lang="es">Más Deporte (T18/19): Episodio 36</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530131500 +0000" stop="20190530141300 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530131500 +0000" stop="20190530141300 +0000" channel="movistardeportes.es">
     <title lang="es">Lo mejor de Indycar (T2019): Mejores momentos de Las 500 Millas de Indianapolis</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530141300 +0000" stop="20190530143700 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530141300 +0000" stop="20190530143700 +0000" channel="movistardeportes.es">
     <title lang="es">VKS (T2019): Episodio 154</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530143700 +0000" stop="20190530150000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530143700 +0000" stop="20190530150000 +0000" channel="movistardeportes.es">
     <title lang="es">Tactic Sport (T2019): Cto. de España Optimist</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530150000 +0000" stop="20190530153000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530150000 +0000" stop="20190530153000 +0000" channel="movistardeportes.es">
     <title lang="es">Track and Field Weekly (T2019): Episodio 7</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530153000 +0000" stop="20190530160000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530153000 +0000" stop="20190530160000 +0000" channel="movistardeportes.es">
     <title lang="es">ATP al descubierto (T2019): Episodio 22</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530160000 +0000" stop="20190530182500 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530160000 +0000" stop="20190530182500 +0000" channel="movistardeportes.es">
     <title lang="es">MLB (T2019): New York Yankees - San Diego Padres</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530182500 +0000" stop="20190530185500 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530182500 +0000" stop="20190530185500 +0000" channel="movistardeportes.es">
     <title lang="es">MLB's Best (T2019): Episodio 8</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530185500 +0000" stop="20190530200000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530185500 +0000" stop="20190530200000 +0000" channel="movistardeportes.es">
     <title lang="es">Elegidos (T18/19): Episodio 26</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530200000 +0000" stop="20190530201500 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530200000 +0000" stop="20190530201500 +0000" channel="movistardeportes.es">
     <title lang="es">Liga Endesa (T18/19): Previa Kirolbet Baskonia - Tecnyconta Zaragoza (1º) Cuartos de Final</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530201500 +0000" stop="20190530221500 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530201500 +0000" stop="20190530221500 +0000" channel="movistardeportes.es">
     <title lang="es">Liga Endesa (T18/19): Kirolbet Baskonia - Tecnyconta Zaragoza (1º) Cuartos de Final</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530221500 +0000" stop="20190531002000 +0000" channel="Movistar Deportes 1">
+  <programme start="20190530221500 +0000" stop="20190531002000 +0000" channel="movistardeportes.es">
     <title lang="es">Diamond League (T2019): Estocolmo</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530050900 +0000" stop="20190530060800 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530050900 +0000" stop="20190530060800 +0000" channel="movistarformula1.es">
     <title lang="es">Vamos sobre ruedas (T2019): Episodio 12</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530060800 +0000" stop="20190530063100 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530060800 +0000" stop="20190530063100 +0000" channel="movistarformula1.es">
     <title lang="es">Especiales F1 (T2019): ¿Hamilton, el mejor de la historia?</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530063100 +0000" stop="20190530070000 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530063100 +0000" stop="20190530070000 +0000" channel="movistarformula1.es">
     <title lang="es">Fuera de Pista (T2019): Mónaco</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530070000 +0000" stop="20190530071400 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530070000 +0000" stop="20190530071400 +0000" channel="movistarformula1.es">
     <title lang="es">Subete a la F1 (T2019): Súbete al GP Mónaco</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530071400 +0000" stop="20190530074400 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530071400 +0000" stop="20190530074400 +0000" channel="movistarformula1.es">
     <title lang="es">El Podio del GP Mónaco (T2019)</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530074400 +0000" stop="20190530080000 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530074400 +0000" stop="20190530080000 +0000" channel="movistarformula1.es">
     <title lang="es">Radios de F1 (T2019): Las radios del GP Mónaco</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530080000 +0000" stop="20190530083000 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530080000 +0000" stop="20190530083000 +0000" channel="movistarformula1.es">
     <title lang="es">Especiales F1 (T2019): Senna, 25 aniversario</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530083000 +0000" stop="20190530090500 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530083000 +0000" stop="20190530090500 +0000" channel="movistarformula1.es">
     <title lang="es">Especiales F1 (T2019): Grandes escuderías</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530090500 +0000" stop="20190530123000 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530090500 +0000" stop="20190530123000 +0000" channel="movistarformula1.es">
     <title lang="es">Indycar (T2019): 500 Millas de Indianápolis</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530123000 +0000" stop="20190530133000 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530123000 +0000" stop="20190530133000 +0000" channel="movistarformula1.es">
     <title lang="es">Vamos sobre ruedas (T2019): Episodio 12</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530133000 +0000" stop="20190530135000 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530133000 +0000" stop="20190530135000 +0000" channel="movistarformula1.es">
     <title lang="es">Fuera de Pista (T2019): Mónaco</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530135000 +0000" stop="20190530142500 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530135000 +0000" stop="20190530142500 +0000" channel="movistarformula1.es">
     <title lang="es">Especiales F1 (T2019): Grandes escuderías</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530142500 +0000" stop="20190530162700 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530142500 +0000" stop="20190530162700 +0000" channel="movistarformula1.es">
     <title lang="es">Mundial de Fórmula 1 (T2019): GP de China: Carrera</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530162700 +0000" stop="20190530183000 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530162700 +0000" stop="20190530183000 +0000" channel="movistarformula1.es">
     <title lang="es">Mundial de Fórmula 1 (T2019): GP de Baréin: Carrera</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530183000 +0000" stop="20190530203300 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530183000 +0000" stop="20190530203300 +0000" channel="movistarformula1.es">
     <title lang="es">Mundial de Fórmula 1 (T2019): GP de Azerbaiyán: Carrera</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530203300 +0000" stop="20190530210300 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530203300 +0000" stop="20190530210300 +0000" channel="movistarformula1.es">
     <title lang="es">El Podio del GP Mónaco (T2019)</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530210300 +0000" stop="20190530213700 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530210300 +0000" stop="20190530213700 +0000" channel="movistarformula1.es">
     <title lang="es">Especiales F1 (T2019): Grandes escuderías</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530213700 +0000" stop="20190530223700 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530213700 +0000" stop="20190530223700 +0000" channel="movistarformula1.es">
     <title lang="es">Vamos sobre ruedas (T2019): Episodio 12</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530223700 +0000" stop="20190531003700 +0000" channel="Movistar Fórmula 1">
+  <programme start="20190530223700 +0000" stop="20190531003700 +0000" channel="movistarformula1.es">
     <title lang="es">Mundial de Fórmula 1 (T2019): GP de Australia: Carrera</title>
     <category lang="es">Deportes</category>
   </programme>
@@ -3828,43 +3828,43 @@
     <title lang="es">Roland Garros (T2019): Día 5</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530023000 +0000" stop="20190530120000 +0000" channel="GOL">
+  <programme start="20190530023000 +0000" stop="20190530120000 +0000" channel="gol.es">
     <title lang="es">Teletienda</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530120000 +0000" stop="20190530123000 +0000" channel="GOL">
+  <programme start="20190530120000 +0000" stop="20190530123000 +0000" channel="gol.es">
     <title lang="es">Magazine 1 2 3 (T18/19): Emisión 41</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530123000 +0000" stop="20190530140000 +0000" channel="GOL">
+  <programme start="20190530123000 +0000" stop="20190530140000 +0000" channel="gol.es">
     <title lang="es">El Golazo de la Mañana (T18/19): Emisión 76</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530140000 +0000" stop="20190530160000 +0000" channel="GOL">
+  <programme start="20190530140000 +0000" stop="20190530160000 +0000" channel="gol.es">
     <title lang="es">El Golazo de Gol (T18/19): Emisión 237</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530160000 +0000" stop="20190530170000 +0000" channel="GOL">
+  <programme start="20190530160000 +0000" stop="20190530170000 +0000" channel="gol.es">
     <title lang="es">La prórroga de El Golazo (T18/19): Emisión 225</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530170000 +0000" stop="20190530180000 +0000" channel="GOL">
+  <programme start="20190530170000 +0000" stop="20190530180000 +0000" channel="gol.es">
     <title lang="es">Los Infiltrados (T18/19): Emisión 189</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530180000 +0000" stop="20190530200000 +0000" channel="GOL">
+  <programme start="20190530180000 +0000" stop="20190530200000 +0000" channel="gol.es">
     <title lang="es">Mundial sub-20 (T2019): Nueva Zelanda-Uruguay</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530200000 +0000" stop="20190530203000 +0000" channel="GOL">
+  <programme start="20190530200000 +0000" stop="20190530203000 +0000" channel="gol.es">
     <title lang="es">Gol Sports (T18/19): Emisión 326</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530203000 +0000" stop="20190530223000 +0000" channel="GOL">
+  <programme start="20190530203000 +0000" stop="20190530223000 +0000" channel="gol.es">
     <title lang="es">Mundial sub-20 (T2019): Estados Unidos-Catar</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530223000 +0000" stop="20190531000000 +0000" channel="GOL">
+  <programme start="20190530223000 +0000" stop="20190531000000 +0000" channel="gol.es">
     <title lang="es">Directo Gol (T18/19): Jueves 30 mayo</title>
     <category lang="es">Deportes</category>
   </programme>
@@ -4004,119 +4004,119 @@
     <title lang="es">Barcelona-Celta 03-04 J.17</title>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20190530060000 +0000" stop="20190530062900 +0000" channel="Caza y Pesca">
+  <programme start="20190530060000 +0000" stop="20190530062900 +0000" channel="cazapesca.es">
     <title lang="es">Torcaces con palomos de "pica"</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530062900 +0000" stop="20190530070000 +0000" channel="Caza y Pesca">
+  <programme start="20190530062900 +0000" stop="20190530070000 +0000" channel="cazapesca.es">
     <title lang="es">Basses a dos bandas</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530070000 +0000" stop="20190530073000 +0000" channel="Caza y Pesca">
+  <programme start="20190530070000 +0000" stop="20190530073000 +0000" channel="cazapesca.es">
     <title lang="es">Gurús: Lorbé</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530073000 +0000" stop="20190530080000 +0000" channel="Caza y Pesca">
+  <programme start="20190530073000 +0000" stop="20190530080000 +0000" channel="cazapesca.es">
     <title lang="es">Batiendo entre volcanes</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530080000 +0000" stop="20190530083500 +0000" channel="Caza y Pesca">
+  <programme start="20190530080000 +0000" stop="20190530083500 +0000" channel="cazapesca.es">
     <title lang="es">Montería a orillas del Salor</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530083500 +0000" stop="20190530090500 +0000" channel="Caza y Pesca">
+  <programme start="20190530083500 +0000" stop="20190530090500 +0000" channel="cazapesca.es">
     <title lang="es">De caza: los machos del Alto Tajo</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530090500 +0000" stop="20190530095300 +0000" channel="Caza y Pesca">
+  <programme start="20190530090500 +0000" stop="20190530095300 +0000" channel="cazapesca.es">
     <title lang="es">Chasing Monsters: Avistamientos inexplicables</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530095300 +0000" stop="20190530102300 +0000" channel="Caza y Pesca">
+  <programme start="20190530095300 +0000" stop="20190530102300 +0000" channel="cazapesca.es">
     <title lang="es">Torcaces con palomos de "pica"</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530102300 +0000" stop="20190530105500 +0000" channel="Caza y Pesca">
+  <programme start="20190530102300 +0000" stop="20190530105500 +0000" channel="cazapesca.es">
     <title lang="es">Basses a dos bandas</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530105500 +0000" stop="20190530112500 +0000" channel="Caza y Pesca">
+  <programme start="20190530105500 +0000" stop="20190530112500 +0000" channel="cazapesca.es">
     <title lang="es">Gurús: Lorbé</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530112500 +0000" stop="20190530115500 +0000" channel="Caza y Pesca">
+  <programme start="20190530112500 +0000" stop="20190530115500 +0000" channel="cazapesca.es">
     <title lang="es">Batiendo entre volcanes</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530115500 +0000" stop="20190530124500 +0000" channel="Caza y Pesca">
+  <programme start="20190530115500 +0000" stop="20190530124500 +0000" channel="cazapesca.es">
     <title lang="es">La caza: Costas</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530124500 +0000" stop="20190530131700 +0000" channel="Caza y Pesca">
+  <programme start="20190530124500 +0000" stop="20190530131700 +0000" channel="cazapesca.es">
     <title lang="es">De montería: Episodio</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530131700 +0000" stop="20190530135000 +0000" channel="Caza y Pesca">
+  <programme start="20190530131700 +0000" stop="20190530135000 +0000" channel="cazapesca.es">
     <title lang="es">Caza y gestión en el "vedat" de Silla</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530135000 +0000" stop="20190530142000 +0000" channel="Caza y Pesca">
+  <programme start="20190530135000 +0000" stop="20190530142000 +0000" channel="cazapesca.es">
     <title lang="es">Carp Wars: Episodio 13</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530142000 +0000" stop="20190530145500 +0000" channel="Caza y Pesca">
+  <programme start="20190530142000 +0000" stop="20190530145500 +0000" channel="cazapesca.es">
     <title lang="es">Caza con arco en Mauritania</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530145500 +0000" stop="20190530152500 +0000" channel="Caza y Pesca">
+  <programme start="20190530145500 +0000" stop="20190530152500 +0000" channel="cazapesca.es">
     <title lang="es">Jig, señuelo de invierno</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530152500 +0000" stop="20190530161500 +0000" channel="Caza y Pesca">
+  <programme start="20190530152500 +0000" stop="20190530161500 +0000" channel="cazapesca.es">
     <title lang="es">Buffalo Hunters: Búfalos de selva</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530161500 +0000" stop="20190530171500 +0000" channel="Caza y Pesca">
+  <programme start="20190530161500 +0000" stop="20190530171500 +0000" channel="cazapesca.es">
     <title lang="es">Al acecho 2019: Episodio 11</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530171500 +0000" stop="20190530175000 +0000" channel="Caza y Pesca">
+  <programme start="20190530171500 +0000" stop="20190530175000 +0000" channel="cazapesca.es">
     <title lang="es">A fondo: La vuelta del lobo</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530175000 +0000" stop="20190530184500 +0000" channel="Caza y Pesca">
+  <programme start="20190530175000 +0000" stop="20190530184500 +0000" channel="cazapesca.es">
     <title lang="es">El chef del mar: Marineros</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530184500 +0000" stop="20190530191500 +0000" channel="Caza y Pesca">
+  <programme start="20190530184500 +0000" stop="20190530191500 +0000" channel="cazapesca.es">
     <title lang="es">Escenarios de pesca: Vigo</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530191500 +0000" stop="20190530202000 +0000" channel="Caza y Pesca">
+  <programme start="20190530191500 +0000" stop="20190530202000 +0000" channel="cazapesca.es">
     <title lang="es">Pesca a mosca del atún rojo</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530202000 +0000" stop="20190530205000 +0000" channel="Caza y Pesca">
+  <programme start="20190530202000 +0000" stop="20190530205000 +0000" channel="cazapesca.es">
     <title lang="es">Carp Wars: Episodio 12</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530205000 +0000" stop="20190530212000 +0000" channel="Caza y Pesca">
+  <programme start="20190530205000 +0000" stop="20190530212000 +0000" channel="cazapesca.es">
     <title lang="es">Gurús: La Serena</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530212000 +0000" stop="20190530215500 +0000" channel="Caza y Pesca">
+  <programme start="20190530212000 +0000" stop="20190530215500 +0000" channel="cazapesca.es">
     <title lang="es">Lecciones con un cuquillero</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530215500 +0000" stop="20190530223000 +0000" channel="Caza y Pesca">
+  <programme start="20190530215500 +0000" stop="20190530223000 +0000" channel="cazapesca.es">
     <title lang="es">Montería a orillas del Salor</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530223000 +0000" stop="20190530230000 +0000" channel="Caza y Pesca">
+  <programme start="20190530223000 +0000" stop="20190530230000 +0000" channel="cazapesca.es">
     <title lang="es">De caza: los machos del Alto Tajo</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530230000 +0000" stop="20190531000000 +0000" channel="Caza y Pesca">
+  <programme start="20190530230000 +0000" stop="20190531000000 +0000" channel="cazapesca.es">
     <title lang="es">Veda abierta 2019: Episodio 11</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
@@ -5368,271 +5368,271 @@
     <title lang="es">Mundo Insólito</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530060000 +0000" stop="20190530063000 +0000" channel="Canal Cocina">
+  <programme start="20190530060000 +0000" stop="20190530063000 +0000" channel="canalcocina.es">
     <title lang="es">Rápido y fácil con Jamie: Episodio 24</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530063000 +0000" stop="20190530070000 +0000" channel="Canal Cocina">
+  <programme start="20190530063000 +0000" stop="20190530070000 +0000" channel="canalcocina.es">
     <title lang="es">Cocina Francesa: Episodio 43</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530070000 +0000" stop="20190530073000 +0000" channel="Canal Cocina">
+  <programme start="20190530070000 +0000" stop="20190530073000 +0000" channel="canalcocina.es">
     <title lang="es">Cocina de familia: Episodio 87</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530073000 +0000" stop="20190530080000 +0000" channel="Canal Cocina">
+  <programme start="20190530073000 +0000" stop="20190530080000 +0000" channel="canalcocina.es">
     <title lang="es">Bollería de siempre: Episodio 43</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530080000 +0000" stop="20190530083000 +0000" channel="Canal Cocina">
+  <programme start="20190530080000 +0000" stop="20190530083000 +0000" channel="canalcocina.es">
     <title lang="es">Los mejores postres del mundo: Episodio 22</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530083000 +0000" stop="20190530090000 +0000" channel="Canal Cocina">
+  <programme start="20190530083000 +0000" stop="20190530090000 +0000" channel="canalcocina.es">
     <title lang="es">Recetas por 5 euros: Episodio 44</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530090000 +0000" stop="20190530093000 +0000" channel="Canal Cocina">
+  <programme start="20190530090000 +0000" stop="20190530093000 +0000" channel="canalcocina.es">
     <title lang="es">Los fogones tradicionales: Episodio 278</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530093000 +0000" stop="20190530100000 +0000" channel="Canal Cocina">
+  <programme start="20190530093000 +0000" stop="20190530100000 +0000" channel="canalcocina.es">
     <title lang="es">Recién horneado por Lorraine: Episodio 6</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530100000 +0000" stop="20190530103000 +0000" channel="Canal Cocina">
+  <programme start="20190530100000 +0000" stop="20190530103000 +0000" channel="canalcocina.es">
     <title lang="es">Sabor de Hogar: Episodio 65</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530103000 +0000" stop="20190530110000 +0000" channel="Canal Cocina">
+  <programme start="20190530103000 +0000" stop="20190530110000 +0000" channel="canalcocina.es">
     <title lang="es">Al fuego: Ahumado</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530110000 +0000" stop="20190530113000 +0000" channel="Canal Cocina">
+  <programme start="20190530110000 +0000" stop="20190530113000 +0000" channel="canalcocina.es">
     <title lang="es">Cocinamos contigo: Episodio 669</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530113000 +0000" stop="20190530120000 +0000" channel="Canal Cocina">
+  <programme start="20190530113000 +0000" stop="20190530120000 +0000" channel="canalcocina.es">
     <title lang="es">Las mejores recetas de Gordon Ramsay: Episodio 39</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530120000 +0000" stop="20190530123000 +0000" channel="Canal Cocina">
+  <programme start="20190530120000 +0000" stop="20190530123000 +0000" channel="canalcocina.es">
     <title lang="es">Los fogones tradicionales: Episodio 168</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530123000 +0000" stop="20190530130000 +0000" channel="Canal Cocina">
+  <programme start="20190530123000 +0000" stop="20190530130000 +0000" channel="canalcocina.es">
     <title lang="es">Los mejores postres del mundo: Episodio 22</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530130000 +0000" stop="20190530133000 +0000" channel="Canal Cocina">
+  <programme start="20190530130000 +0000" stop="20190530133000 +0000" channel="canalcocina.es">
     <title lang="es">Los 22 minutos de Julius: Episodio 529</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530133000 +0000" stop="20190530140000 +0000" channel="Canal Cocina">
+  <programme start="20190530133000 +0000" stop="20190530140000 +0000" channel="canalcocina.es">
     <title lang="es">Sabor de Hogar: Episodio 65</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530140000 +0000" stop="20190530143000 +0000" channel="Canal Cocina">
+  <programme start="20190530140000 +0000" stop="20190530143000 +0000" channel="canalcocina.es">
     <title lang="es">Los fogones tradicionales: Episodio 212</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530143000 +0000" stop="20190530150000 +0000" channel="Canal Cocina">
+  <programme start="20190530143000 +0000" stop="20190530150000 +0000" channel="canalcocina.es">
     <title lang="es">Abuelita linda: Tecate</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530150000 +0000" stop="20190530153000 +0000" channel="Canal Cocina">
+  <programme start="20190530150000 +0000" stop="20190530153000 +0000" channel="canalcocina.es">
     <title lang="es">Bollería de siempre: Episodio 20</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530153000 +0000" stop="20190530160000 +0000" channel="Canal Cocina">
+  <programme start="20190530153000 +0000" stop="20190530160000 +0000" channel="canalcocina.es">
     <title lang="es">Al fuego: Ahumado</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530160000 +0000" stop="20190530163000 +0000" channel="Canal Cocina">
+  <programme start="20190530160000 +0000" stop="20190530163000 +0000" channel="canalcocina.es">
     <title lang="es">Recién horneado por Lorraine: Episodio 6</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530163000 +0000" stop="20190530170000 +0000" channel="Canal Cocina">
+  <programme start="20190530163000 +0000" stop="20190530170000 +0000" channel="canalcocina.es">
     <title lang="es">Los mejores postres del mundo: Episodio 22</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530170000 +0000" stop="20190530173000 +0000" channel="Canal Cocina">
+  <programme start="20190530170000 +0000" stop="20190530173000 +0000" channel="canalcocina.es">
     <title lang="es">Bollería de siempre: Episodio 42</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530173000 +0000" stop="20190530180000 +0000" channel="Canal Cocina">
+  <programme start="20190530173000 +0000" stop="20190530180000 +0000" channel="canalcocina.es">
     <title lang="es">Las mejores recetas de Gordon Ramsay: Episodio 39</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530180000 +0000" stop="20190530183000 +0000" channel="Canal Cocina">
+  <programme start="20190530180000 +0000" stop="20190530183000 +0000" channel="canalcocina.es">
     <title lang="es">Sabor de Hogar: Episodio 65</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530183000 +0000" stop="20190530190000 +0000" channel="Canal Cocina">
+  <programme start="20190530183000 +0000" stop="20190530190000 +0000" channel="canalcocina.es">
     <title lang="es">La abuela Lolita: Episodio 22</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530190000 +0000" stop="20190530193000 +0000" channel="Canal Cocina">
+  <programme start="20190530190000 +0000" stop="20190530193000 +0000" channel="canalcocina.es">
     <title lang="es">Cocina de familia: Episodio 88</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530193000 +0000" stop="20190530200000 +0000" channel="Canal Cocina">
+  <programme start="20190530193000 +0000" stop="20190530200000 +0000" channel="canalcocina.es">
     <title lang="es">Abuelita linda: Zimatlán de Álvarez</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530200000 +0000" stop="20190530203000 +0000" channel="Canal Cocina">
+  <programme start="20190530200000 +0000" stop="20190530203000 +0000" channel="canalcocina.es">
     <title lang="es">Los fogones tradicionales: Episodio 212</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530203000 +0000" stop="20190530210000 +0000" channel="Canal Cocina">
+  <programme start="20190530203000 +0000" stop="20190530210000 +0000" channel="canalcocina.es">
     <title lang="es">Sabor de Hogar: Episodio 65</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530210000 +0000" stop="20190530213000 +0000" channel="Canal Cocina">
+  <programme start="20190530210000 +0000" stop="20190530213000 +0000" channel="canalcocina.es">
     <title lang="es">Rápido y fácil con Jamie: Episodio 25</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530213000 +0000" stop="20190530220000 +0000" channel="Canal Cocina">
+  <programme start="20190530213000 +0000" stop="20190530220000 +0000" channel="canalcocina.es">
     <title lang="es">Cocina Francesa: Episodio 44</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530220000 +0000" stop="20190530223000 +0000" channel="Canal Cocina">
+  <programme start="20190530220000 +0000" stop="20190530223000 +0000" channel="canalcocina.es">
     <title lang="es">Los fogones tradicionales: Episodio 278</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530223000 +0000" stop="20190530230000 +0000" channel="Canal Cocina">
+  <programme start="20190530223000 +0000" stop="20190530230000 +0000" channel="canalcocina.es">
     <title lang="es">Cocinamos contigo: Episodio 669</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530230000 +0000" stop="20190530233000 +0000" channel="Canal Cocina">
+  <programme start="20190530230000 +0000" stop="20190530233000 +0000" channel="canalcocina.es">
     <title lang="es">Al fuego: Ahumado</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530233000 +0000" stop="20190531000000 +0000" channel="Canal Cocina">
+  <programme start="20190530233000 +0000" stop="20190531000000 +0000" channel="canalcocina.es">
     <title lang="es">Rápido y fácil con Jamie: Episodio 25</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530060000 +0000" stop="20190530063000 +0000" channel="Canal Decasa">
+  <programme start="20190530060000 +0000" stop="20190530063000 +0000" channel="canaldecasa.es">
     <title lang="es">Customiza tu ropa: Cute</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530063000 +0000" stop="20190530070000 +0000" channel="Canal Decasa">
+  <programme start="20190530063000 +0000" stop="20190530070000 +0000" channel="canaldecasa.es">
     <title lang="es">Estilo Súper: Organizar un viaje</title>
     <category lang="es">Cultural/Educativo</category>
   </programme>
-  <programme start="20190530070000 +0000" stop="20190530073000 +0000" channel="Canal Decasa">
+  <programme start="20190530070000 +0000" stop="20190530073000 +0000" channel="canaldecasa.es">
     <title lang="es">House &amp; Style: Casa familiar de Maria Juan de Sentmenat</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530073000 +0000" stop="20190530080000 +0000" channel="Canal Decasa">
+  <programme start="20190530073000 +0000" stop="20190530080000 +0000" channel="canaldecasa.es">
     <title lang="es">Decoración creativa: Episodio 21</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530080000 +0000" stop="20190530083000 +0000" channel="Canal Decasa">
+  <programme start="20190530080000 +0000" stop="20190530083000 +0000" channel="canaldecasa.es">
     <title lang="es">Redecora con Raquel: Cocina diáfana y pintura</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530083000 +0000" stop="20190530090000 +0000" channel="Canal Decasa">
+  <programme start="20190530083000 +0000" stop="20190530090000 +0000" channel="canaldecasa.es">
     <title lang="es">Aprende a maquillarte con David Francés: Make up 50</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530090000 +0000" stop="20190530093000 +0000" channel="Canal Decasa">
+  <programme start="20190530090000 +0000" stop="20190530093000 +0000" channel="canaldecasa.es">
     <title lang="es">Cosmética natural: Facilísimo</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530093000 +0000" stop="20190530100000 +0000" channel="Canal Decasa">
+  <programme start="20190530093000 +0000" stop="20190530100000 +0000" channel="canaldecasa.es">
     <title lang="es">Estilo Súper: Baja autoestima</title>
     <category lang="es">Cultural/Educativo</category>
   </programme>
-  <programme start="20190530100000 +0000" stop="20190530103000 +0000" channel="Canal Decasa">
+  <programme start="20190530100000 +0000" stop="20190530103000 +0000" channel="canaldecasa.es">
     <title lang="es">Fondo de armario: Leggin y flip flop</title>
     <category lang="es">Cultural/Educativo</category>
   </programme>
-  <programme start="20190530103000 +0000" stop="20190530110000 +0000" channel="Canal Decasa">
+  <programme start="20190530103000 +0000" stop="20190530110000 +0000" channel="canaldecasa.es">
     <title lang="es">El equipo Decasa: Planta de aire</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530110000 +0000" stop="20190530113000 +0000" channel="Canal Decasa">
+  <programme start="20190530110000 +0000" stop="20190530113000 +0000" channel="canaldecasa.es">
     <title lang="es">Redecora con Raquel: Cocina diáfana y pintura</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530113000 +0000" stop="20190530120000 +0000" channel="Canal Decasa">
+  <programme start="20190530113000 +0000" stop="20190530120000 +0000" channel="canaldecasa.es">
     <title lang="es">Customiza tu ropa: Joven</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530120000 +0000" stop="20190530123000 +0000" channel="Canal Decasa">
+  <programme start="20190530120000 +0000" stop="20190530123000 +0000" channel="canaldecasa.es">
     <title lang="es">Vísteme Laura: Marisa</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530123000 +0000" stop="20190530130000 +0000" channel="Canal Decasa">
+  <programme start="20190530123000 +0000" stop="20190530130000 +0000" channel="canaldecasa.es">
     <title lang="es">Deco reto: Un pequeño recibidor</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530130000 +0000" stop="20190530140000 +0000" channel="Canal Decasa">
+  <programme start="20190530130000 +0000" stop="20190530140000 +0000" channel="canaldecasa.es">
     <title lang="es">La casa de mis sueños: Episodio 139</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530140000 +0000" stop="20190530143000 +0000" channel="Canal Decasa">
+  <programme start="20190530140000 +0000" stop="20190530143000 +0000" channel="canaldecasa.es">
     <title lang="es">Las flores de tu boda</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530143000 +0000" stop="20190530150000 +0000" channel="Canal Decasa">
+  <programme start="20190530143000 +0000" stop="20190530150000 +0000" channel="canaldecasa.es">
     <title lang="es">Customiza tu casa: Tocador</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530150000 +0000" stop="20190530153000 +0000" channel="Canal Decasa">
+  <programme start="20190530150000 +0000" stop="20190530153000 +0000" channel="canaldecasa.es">
     <title lang="es">Redecora con Raquel: Cocina diáfana y pintura</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530153000 +0000" stop="20190530160000 +0000" channel="Canal Decasa">
+  <programme start="20190530153000 +0000" stop="20190530160000 +0000" channel="canaldecasa.es">
     <title lang="es">El equipo Decasa: Planta de aire</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530160000 +0000" stop="20190530170000 +0000" channel="Canal Decasa">
+  <programme start="20190530160000 +0000" stop="20190530170000 +0000" channel="canaldecasa.es">
     <title lang="es">Vender para comprar: Episodio 38</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530170000 +0000" stop="20190530173000 +0000" channel="Canal Decasa">
+  <programme start="20190530170000 +0000" stop="20190530173000 +0000" channel="canaldecasa.es">
     <title lang="es">De rastros con Chus: Mesa TV + Pelota béisbol</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530173000 +0000" stop="20190530180000 +0000" channel="Canal Decasa">
+  <programme start="20190530173000 +0000" stop="20190530180000 +0000" channel="canaldecasa.es">
     <title lang="es">De sin a con: 30 metros cuadrados / Un salón doble</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530180000 +0000" stop="20190530183000 +0000" channel="Canal Decasa">
+  <programme start="20190530180000 +0000" stop="20190530183000 +0000" channel="canaldecasa.es">
     <title lang="es">Customiza tu casa: Tocador</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530183000 +0000" stop="20190530190000 +0000" channel="Canal Decasa">
+  <programme start="20190530183000 +0000" stop="20190530190000 +0000" channel="canaldecasa.es">
     <title lang="es">Decoración fácil: Terraza</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530190000 +0000" stop="20190530193000 +0000" channel="Canal Decasa">
+  <programme start="20190530190000 +0000" stop="20190530193000 +0000" channel="canaldecasa.es">
     <title lang="es">House &amp; Style: Paco Cerrato y Duquesa de Escalona</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530193000 +0000" stop="20190530203000 +0000" channel="Canal Decasa">
+  <programme start="20190530193000 +0000" stop="20190530203000 +0000" channel="canaldecasa.es">
     <title lang="es">Mi boda perfecta: Episodio 46</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530203000 +0000" stop="20190530213000 +0000" channel="Canal Decasa">
+  <programme start="20190530203000 +0000" stop="20190530213000 +0000" channel="canaldecasa.es">
     <title lang="es">La casa de mis sueños: Episodio 139</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530213000 +0000" stop="20190530220000 +0000" channel="Canal Decasa">
+  <programme start="20190530213000 +0000" stop="20190530220000 +0000" channel="canaldecasa.es">
     <title lang="es">Deco reto: Un pequeño recibidor</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530220000 +0000" stop="20190530223000 +0000" channel="Canal Decasa">
+  <programme start="20190530220000 +0000" stop="20190530223000 +0000" channel="canaldecasa.es">
     <title lang="es">Las flores de tu boda</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530223000 +0000" stop="20190530230000 +0000" channel="Canal Decasa">
+  <programme start="20190530223000 +0000" stop="20190530230000 +0000" channel="canaldecasa.es">
     <title lang="es">Customiza tu casa: Tocador</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530230000 +0000" stop="20190531000000 +0000" channel="Canal Decasa">
+  <programme start="20190530230000 +0000" stop="20190531000000 +0000" channel="canaldecasa.es">
     <title lang="es">Los gemelos decoran dos veces: Casas coloniales modernas</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
@@ -8216,287 +8216,287 @@
     <title lang="es">Jessie (T4): Ep.5 Casos perdidos</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530060000 +0000" stop="20190530062000 +0000" channel="Boing">
+  <programme start="20190530060000 +0000" stop="20190530062000 +0000" channel="boing.es">
     <title lang="es">Mr. Bean</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530062000 +0000" stop="20190530064500 +0000" channel="Boing">
+  <programme start="20190530062000 +0000" stop="20190530064500 +0000" channel="boing.es">
     <title lang="es">Mr. Bean</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530064500 +0000" stop="20190530065500 +0000" channel="Boing">
+  <programme start="20190530064500 +0000" stop="20190530065500 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530065500 +0000" stop="20190530070000 +0000" channel="Boing">
+  <programme start="20190530065500 +0000" stop="20190530070000 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530070000 +0000" stop="20190530071000 +0000" channel="Boing">
+  <programme start="20190530070000 +0000" stop="20190530071000 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530071000 +0000" stop="20190530072000 +0000" channel="Boing">
+  <programme start="20190530071000 +0000" stop="20190530072000 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530072000 +0000" stop="20190530072500 +0000" channel="Boing">
+  <programme start="20190530072000 +0000" stop="20190530072500 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530072500 +0000" stop="20190530073500 +0000" channel="Boing">
+  <programme start="20190530072500 +0000" stop="20190530073500 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530073500 +0000" stop="20190530074000 +0000" channel="Boing">
+  <programme start="20190530073500 +0000" stop="20190530074000 +0000" channel="boing.es">
     <title lang="es">The Happos family</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530074000 +0000" stop="20190530081000 +0000" channel="Boing">
+  <programme start="20190530074000 +0000" stop="20190530081000 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530081000 +0000" stop="20190530083000 +0000" channel="Boing">
+  <programme start="20190530081000 +0000" stop="20190530083000 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530083000 +0000" stop="20190530090000 +0000" channel="Boing">
+  <programme start="20190530083000 +0000" stop="20190530090000 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530090000 +0000" stop="20190530091000 +0000" channel="Boing">
+  <programme start="20190530090000 +0000" stop="20190530091000 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530091000 +0000" stop="20190530092000 +0000" channel="Boing">
+  <programme start="20190530091000 +0000" stop="20190530092000 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530092000 +0000" stop="20190530093000 +0000" channel="Boing">
+  <programme start="20190530092000 +0000" stop="20190530093000 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530093000 +0000" stop="20190530094500 +0000" channel="Boing">
+  <programme start="20190530093000 +0000" stop="20190530094500 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530094500 +0000" stop="20190530095500 +0000" channel="Boing">
+  <programme start="20190530094500 +0000" stop="20190530095500 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530095500 +0000" stop="20190530100500 +0000" channel="Boing">
+  <programme start="20190530095500 +0000" stop="20190530100500 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530100500 +0000" stop="20190530101500 +0000" channel="Boing">
+  <programme start="20190530100500 +0000" stop="20190530101500 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530101500 +0000" stop="20190530102000 +0000" channel="Boing">
+  <programme start="20190530101500 +0000" stop="20190530102000 +0000" channel="boing.es">
     <title lang="es">The Happos family</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530102000 +0000" stop="20190530105500 +0000" channel="Boing">
+  <programme start="20190530102000 +0000" stop="20190530105500 +0000" channel="boing.es">
     <title lang="es">Mr. Bean</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530105500 +0000" stop="20190530110500 +0000" channel="Boing">
+  <programme start="20190530105500 +0000" stop="20190530110500 +0000" channel="boing.es">
     <title lang="es">Grizzy y los lemmings</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530110500 +0000" stop="20190530111000 +0000" channel="Boing">
+  <programme start="20190530110500 +0000" stop="20190530111000 +0000" channel="boing.es">
     <title lang="es">Grizzy y los lemmings</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530111000 +0000" stop="20190530112000 +0000" channel="Boing">
+  <programme start="20190530111000 +0000" stop="20190530112000 +0000" channel="boing.es">
     <title lang="es">Grizzy y los lemmings</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530112000 +0000" stop="20190530113000 +0000" channel="Boing">
+  <programme start="20190530112000 +0000" stop="20190530113000 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530113000 +0000" stop="20190530113500 +0000" channel="Boing">
+  <programme start="20190530113000 +0000" stop="20190530113500 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530113500 +0000" stop="20190530114000 +0000" channel="Boing">
+  <programme start="20190530113500 +0000" stop="20190530114000 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530114000 +0000" stop="20190530114500 +0000" channel="Boing">
+  <programme start="20190530114000 +0000" stop="20190530114500 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530114500 +0000" stop="20190530115500 +0000" channel="Boing">
+  <programme start="20190530114500 +0000" stop="20190530115500 +0000" channel="boing.es">
     <title lang="es">El show de Tom y Jerry</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530115500 +0000" stop="20190530120500 +0000" channel="Boing">
+  <programme start="20190530115500 +0000" stop="20190530120500 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530120500 +0000" stop="20190530122000 +0000" channel="Boing">
+  <programme start="20190530120500 +0000" stop="20190530122000 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530122000 +0000" stop="20190530123000 +0000" channel="Boing">
+  <programme start="20190530122000 +0000" stop="20190530123000 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530123000 +0000" stop="20190530124000 +0000" channel="Boing">
+  <programme start="20190530123000 +0000" stop="20190530124000 +0000" channel="boing.es">
     <title lang="es">Looney Tunes</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530124000 +0000" stop="20190530125000 +0000" channel="Boing">
+  <programme start="20190530124000 +0000" stop="20190530125000 +0000" channel="boing.es">
     <title lang="es">Ben 10</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530125000 +0000" stop="20190530130000 +0000" channel="Boing">
+  <programme start="20190530125000 +0000" stop="20190530130000 +0000" channel="boing.es">
     <title lang="es">Ben 10</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530130000 +0000" stop="20190530132500 +0000" channel="Boing">
+  <programme start="20190530130000 +0000" stop="20190530132500 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530132500 +0000" stop="20190530133500 +0000" channel="Boing">
+  <programme start="20190530132500 +0000" stop="20190530133500 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530133500 +0000" stop="20190530135000 +0000" channel="Boing">
+  <programme start="20190530133500 +0000" stop="20190530135000 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530135000 +0000" stop="20190530142000 +0000" channel="Boing">
+  <programme start="20190530135000 +0000" stop="20190530142000 +0000" channel="boing.es">
     <title lang="es">Los Thundermans</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530142000 +0000" stop="20190530144500 +0000" channel="Boing">
+  <programme start="20190530142000 +0000" stop="20190530144500 +0000" channel="boing.es">
     <title lang="es">Los Thundermans</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530144500 +0000" stop="20190530151000 +0000" channel="Boing">
+  <programme start="20190530144500 +0000" stop="20190530151000 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530151000 +0000" stop="20190530153500 +0000" channel="Boing">
+  <programme start="20190530151000 +0000" stop="20190530153500 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530153500 +0000" stop="20190530160500 +0000" channel="Boing">
+  <programme start="20190530153500 +0000" stop="20190530160500 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530160500 +0000" stop="20190530161500 +0000" channel="Boing">
+  <programme start="20190530160500 +0000" stop="20190530161500 +0000" channel="boing.es">
     <title lang="es">Teen Titans Go!</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530161500 +0000" stop="20190530163000 +0000" channel="Boing">
+  <programme start="20190530161500 +0000" stop="20190530163000 +0000" channel="boing.es">
     <title lang="es">Teen Titans Go!</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530163000 +0000" stop="20190530164000 +0000" channel="Boing">
+  <programme start="20190530163000 +0000" stop="20190530164000 +0000" channel="boing.es">
     <title lang="es">El mundo de Craig</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530164000 +0000" stop="20190530165500 +0000" channel="Boing">
+  <programme start="20190530164000 +0000" stop="20190530165500 +0000" channel="boing.es">
     <title lang="es">El mundo de Craig</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530165500 +0000" stop="20190530172000 +0000" channel="Boing">
+  <programme start="20190530165500 +0000" stop="20190530172000 +0000" channel="boing.es">
     <title lang="es">El mundo de Craig</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530172000 +0000" stop="20190530174500 +0000" channel="Boing">
+  <programme start="20190530172000 +0000" stop="20190530174500 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530174500 +0000" stop="20190530181000 +0000" channel="Boing">
+  <programme start="20190530174500 +0000" stop="20190530181000 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530181000 +0000" stop="20190530182000 +0000" channel="Boing">
+  <programme start="20190530181000 +0000" stop="20190530182000 +0000" channel="boing.es">
     <title lang="es">Ben 10: La omni-trampa</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530182000 +0000" stop="20190530184000 +0000" channel="Boing">
+  <programme start="20190530182000 +0000" stop="20190530184000 +0000" channel="boing.es">
     <title lang="es">Ben 10</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530184000 +0000" stop="20190530190500 +0000" channel="Boing">
+  <programme start="20190530184000 +0000" stop="20190530190500 +0000" channel="boing.es">
     <title lang="es">Bakugan: Battle Planet</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530190500 +0000" stop="20190530191500 +0000" channel="Boing">
+  <programme start="20190530190500 +0000" stop="20190530191500 +0000" channel="boing.es">
     <title lang="es">Somos Osos</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530191500 +0000" stop="20190530193000 +0000" channel="Boing">
+  <programme start="20190530191500 +0000" stop="20190530193000 +0000" channel="boing.es">
     <title lang="es">Somos Osos</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530193000 +0000" stop="20190530194000 +0000" channel="Boing">
+  <programme start="20190530193000 +0000" stop="20190530194000 +0000" channel="boing.es">
     <title lang="es">Teen Titans Go!</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530194000 +0000" stop="20190530195500 +0000" channel="Boing">
+  <programme start="20190530194000 +0000" stop="20190530195500 +0000" channel="boing.es">
     <title lang="es">Teen Titans Go!</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530195500 +0000" stop="20190530200000 +0000" channel="Boing">
+  <programme start="20190530195500 +0000" stop="20190530200000 +0000" channel="boing.es">
     <title lang="es">Toony Tube</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530200000 +0000" stop="20190530202500 +0000" channel="Boing">
+  <programme start="20190530200000 +0000" stop="20190530202500 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530202500 +0000" stop="20190530205500 +0000" channel="Boing">
+  <programme start="20190530202500 +0000" stop="20190530205500 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530205500 +0000" stop="20190530212000 +0000" channel="Boing">
+  <programme start="20190530205500 +0000" stop="20190530212000 +0000" channel="boing.es">
     <title lang="es">Doraemon, el gato cósmico</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530212000 +0000" stop="20190530215000 +0000" channel="Boing">
+  <programme start="20190530212000 +0000" stop="20190530215000 +0000" channel="boing.es">
     <title lang="es">Los Thundermans</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530215000 +0000" stop="20190530221500 +0000" channel="Boing">
+  <programme start="20190530215000 +0000" stop="20190530221500 +0000" channel="boing.es">
     <title lang="es">Los Thundermans</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530221500 +0000" stop="20190530222500 +0000" channel="Boing">
+  <programme start="20190530221500 +0000" stop="20190530222500 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530222500 +0000" stop="20190530224000 +0000" channel="Boing">
+  <programme start="20190530222500 +0000" stop="20190530224000 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530224000 +0000" stop="20190530225000 +0000" channel="Boing">
+  <programme start="20190530224000 +0000" stop="20190530225000 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530225000 +0000" stop="20190530230500 +0000" channel="Boing">
+  <programme start="20190530225000 +0000" stop="20190530230500 +0000" channel="boing.es">
     <title lang="es">El asombroso mundo de Gumball</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530230500 +0000" stop="20190530233000 +0000" channel="Boing">
+  <programme start="20190530230500 +0000" stop="20190530233000 +0000" channel="boing.es">
     <title lang="es">Dragon Ball Super</title>
     <category lang="es">Series</category>
   </programme>
-  <programme start="20190530233000 +0000" stop="20190530234000 +0000" channel="Boing">
+  <programme start="20190530233000 +0000" stop="20190530234000 +0000" channel="boing.es">
     <title lang="es">Steven Universe</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530234000 +0000" stop="20190530235500 +0000" channel="Boing">
+  <programme start="20190530234000 +0000" stop="20190530235500 +0000" channel="boing.es">
     <title lang="es">Steven Universe</title>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20190530235500 +0000" stop="20190531000500 +0000" channel="Boing">
+  <programme start="20190530235500 +0000" stop="20190531000500 +0000" channel="boing.es">
     <title lang="es">Steven Universe</title>
     <category lang="es">Infantil</category>
   </programme>
@@ -11820,59 +11820,59 @@
     <title lang="es">NHK World Japan</title>
     <category lang="es">Información</category>
   </programme>
-  <programme start="20190530035500 +0000" stop="20190530070000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530035500 +0000" stop="20190530070000 +0000" channel="canalandalucia.es">
     <title lang="es">Conexión CSTV</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530070000 +0000" stop="20190530080000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530070000 +0000" stop="20190530080000 +0000" channel="canalandalucia.es">
     <title lang="es">Noticias Primera Hora</title>
     <category lang="es">Información</category>
   </programme>
-  <programme start="20190530080000 +0000" stop="20190530110000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530080000 +0000" stop="20190530110000 +0000" channel="canalandalucia.es">
     <title lang="es">Buenos días, Andalucía</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530110000 +0000" stop="20190530135500 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530110000 +0000" stop="20190530135500 +0000" channel="canalandalucia.es">
     <title lang="es">Vaya Mañana</title>
     <category lang="es">Información</category>
   </programme>
-  <programme start="20190530135500 +0000" stop="20190530141500 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530135500 +0000" stop="20190530141500 +0000" channel="canalandalucia.es">
     <title lang="es">Canal Sur Noticias 1, la portada</title>
     <category lang="es">Información</category>
   </programme>
-  <programme start="20190530141500 +0000" stop="20190530143000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530141500 +0000" stop="20190530143000 +0000" channel="canalandalucia.es">
     <title lang="es">Noticias 1 Andalucía</title>
     <category lang="es">Información</category>
   </programme>
-  <programme start="20190530143000 +0000" stop="20190530153000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530143000 +0000" stop="20190530153000 +0000" channel="canalandalucia.es">
     <title lang="es">Canal Sur Noticias 1</title>
     <category lang="es">Información</category>
   </programme>
-  <programme start="20190530153000 +0000" stop="20190530180000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530153000 +0000" stop="20190530180000 +0000" channel="canalandalucia.es">
     <title lang="es">La tarde, aquí y ahora</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530180000 +0000" stop="20190530194500 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530180000 +0000" stop="20190530194500 +0000" channel="canalandalucia.es">
     <title lang="es">Andalucía Directo</title>
     <category lang="es">Entretenimiento</category>
   </programme>
-  <programme start="20190530194500 +0000" stop="20190530200000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530194500 +0000" stop="20190530200000 +0000" channel="canalandalucia.es">
     <title lang="es">Noticias 2 Andalucía</title>
     <category lang="es">Información</category>
   </programme>
-  <programme start="20190530200000 +0000" stop="20190530203000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530200000 +0000" stop="20190530203000 +0000" channel="canalandalucia.es">
     <title lang="es">Cómetelo: Arroz caldoso de atún de almadraba</title>
     <category lang="es">Ocio y Aficiones</category>
   </programme>
-  <programme start="20190530203000 +0000" stop="20190530214000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530203000 +0000" stop="20190530214000 +0000" channel="canalandalucia.es">
     <title lang="es">Canal Sur Noticias 2</title>
     <category lang="es">Información</category>
   </programme>
-  <programme start="20190530214000 +0000" stop="20190530232500 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530214000 +0000" stop="20190530232500 +0000" channel="canalandalucia.es">
     <title lang="es">Por siempre, Juan Carlos Aragón</title>
     <category lang="es">Documentales</category>
   </programme>
-  <programme start="20190530232500 +0000" stop="20190531010000 +0000" channel="Canal Sur Andalucía">
+  <programme start="20190530232500 +0000" stop="20190531010000 +0000" channel="canalandalucia.es">
     <title lang="es">Documentales andaluces: Superalimentos</title>
     <category lang="es">Documentales</category>
   </programme>
